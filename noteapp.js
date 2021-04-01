@@ -1,7 +1,5 @@
 
 
-//this is new javascript done by me
-
 //console.log('hiii this is new script');
 display();
 let addBtn = document.getElementById('addBtn');
